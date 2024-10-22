@@ -4,9 +4,7 @@ This article is available in both Chinese and English. Please choose to read it 
 
 [中文版本](#chinese_version) / [ENGLISH VERSION](#english_version)
 
-## 中文版本
-<span id='chinese_version' />
-
+## <a name='chinese_version'>中文版本</a>
 嗨！大家好，简单的自我介绍一下：
 
 我是个做事谨慎和慢工出细活的人，开这个博客我犹豫了很久，到决定开及创建好账户后，我的网名要叫什么又让我犹豫了很久，我的github用户名是itsecuritydog，所以干脆就叫IT安全狗吧，因为我开博客的目的主要也是分享一些关于个人隐私安全方面的经验和教程，这个网名应该还算合适。
@@ -28,9 +26,7 @@ P.S. 以上清单会根据需要拓展或缩减。
 - 您可以转载我的文章且无需征求我的同意，请在转载时注明出处及放上原文章的链接即可，谢谢！
 - 出于个人安全考虑，不提供交流联系方式，不提供私人指导服务，谢谢大家！
 
-## ENGLISH VERSION
-<span id='english_version' />
-
+## <a name='english_version'>ENGLISH VERSION</a>
 Hi everyone! Here’s a brief introduction:
 
 I’m someone who is cautious and detail-oriented. It took me quite a while to start this blog, and even longer to settle on a name. Since my GitHub username is “itsecuritydog,” I decided to call this blog "IT Security Dog" as well, which I believe is a fitting choice given that I’ll mainly be sharing insights and tutorials on personal privacy and security.
